@@ -1,4 +1,30 @@
+## 📖 Propósito del proyecto
 
+Este repositorio corresponde a un proyecto académico desarrollado en el marco de la carrera **Tecnicatura Universitaria en Programación / Licenciatura en Informática** de la **Universidad Nacional de Quilmes (UNQ)**.
+
+El objetivo principal del proyecto fue aplicar en un caso práctico los conocimientos adquiridos en la materia **Estrategias de Persistencia**, trabajando de manera colaborativa para diseñar y desarrollar una solución backend a un problema propuesto por la cátedra, simulando un entorno de desarrollo profesional.
+
+## 🛠️ Habilidades desarrolladas
+
+Durante el desarrollo de este proyecto se trabajó en:
+
+* Desarrollo backend utilizando **Java** y principios de **programación orientada a objetos (OOP)**.
+* Implementación de estrategias de persistencia utilizando **bases de datos SQL y NoSQL**.
+* Aplicación de **buenas prácticas de desarrollo**, incluyendo patrones de diseño, testing y principios de clean code.
+* Trabajo colaborativo utilizando **Git y GitHub**.
+* Gestión de versiones mediante un flujo de trabajo basado en **GitFlow**.
+* Resolución de problemas en un contexto similar a un proyecto de software real.
+* Modelado de dominio y separación de responsabilidades.
+
+## 🤝 Aclaración
+
+Este proyecto fue desarrollado de manera grupal como parte de un trabajo práctico académico.
+
+Este repositorio constituye una copia pública con fines de **portfolio personal**, cuyo objetivo es demostrar las habilidades técnicas adquiridas, así como la experiencia en trabajo colaborativo y desarrollo de software.
+
+Todos los créditos del desarrollo original corresponden al equipo de estudiantes participantes del proyecto.
+
+## 🧩 Origen del proyecto
 > _Otro viernes en la facu, nada raro, no?_
 > _Seis pibes de informatica y un ritual sin razon._
 > 
