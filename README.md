@@ -8,12 +8,12 @@ El objetivo principal del proyecto fue aplicar en un caso práctico los conocimi
 
 Durante el desarrollo de este proyecto se trabajó en:
 
-* Desarrollo backend utilizando **Java** y principios de **programación orientada a objetos (OOP)**.
-* Implementación de estrategias de persistencia utilizando **bases de datos SQL y NoSQL**.
-* Aplicación de **buenas prácticas de desarrollo**, incluyendo patrones de diseño, testing y principios de clean code.
-* Trabajo colaborativo utilizando **Git y GitHub**.
-* Gestión de versiones mediante un flujo de trabajo basado en **GitFlow**.
-* Resolución de problemas en un contexto similar a un proyecto de software real.
+* Desarrollo backend en **Java** aplicando principios de **Programación Orientada a Objetos (OOP)**.
+* Implementación de **estrategias de persistencia**, integrando bases de datos SQL, NoSQL.
+* Diseño de arquitectura en capas (**Controller – Service – DAO – Model**) para desacoplar la lógica de negocio de la persistencia.
+* Aplicación de buenas prácticas: **patrones de diseño, testing automatizado, Clean Code y SOLID**.
+* Desarrollo de **API REST** y uso de DTOs para desacoplar el modelo de dominio.
+* Trabajo colaborativo con **Git/GitHub** y workflow **GitFlow**.
 * Modelado de dominio y separación de responsabilidades.
 
 ## 🤝 Aclaración
